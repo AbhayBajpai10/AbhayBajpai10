@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student with strong skills in DSA and Development. <br>Built responsive web interfaces.  <br>Continuously improving through hands-on practice and learning from real-world coding challenges. <br>Actively seekin<br>
+Computer Science student with strong skills in DSA and Development. <br>Built responsive web interfaces.  <br>Continuously improving through hands-on practice and learning from real-world coding challenges. 
 
 
 ## 🌐 Socials:
